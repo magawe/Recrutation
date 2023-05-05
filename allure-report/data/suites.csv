@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri May 05 12:23:02 CEST 2023","Fri May 05 12:23:04 CEST 2023","1452","Default Suite","TestFramework","FunctionalTests","FunctionalTests","bedRoomsMinValueTest","bedRoomsMinValueTest",""
+"passed","Fri May 05 12:23:13 CEST 2023","Fri May 05 12:23:15 CEST 2023","1589","Default Suite","TestFramework","FunctionalTests","FunctionalTests","amenitiesCheckboxesTest","amenitiesCheckboxesTest",""
+"passed","Fri May 05 12:23:13 CEST 2023","Fri May 05 12:23:13 CEST 2023","294","Default Suite","TestFramework","FunctionalTests","FunctionalTests","entryPriceToTest","entryPriceToTest",""
+"passed","Fri May 05 12:23:15 CEST 2023","Fri May 05 12:23:16 CEST 2023","1233","Default Suite","TestFramework","FunctionalTests","FunctionalTests","clearAllAmenitiesTest","clearAllAmenitiesTest",""
+"passed","Fri May 05 12:23:13 CEST 2023","Fri May 05 12:23:13 CEST 2023","485","Default Suite","TestFramework","FunctionalTests","FunctionalTests","entryPriceFromTest","entryPriceFromTest",""
+"passed","Fri May 05 12:23:05 CEST 2023","Fri May 05 12:23:13 CEST 2023","7271","Default Suite","TestFramework","FunctionalTests","FunctionalTests","bedsMaxValueTest","bedsMaxValueTest",""
